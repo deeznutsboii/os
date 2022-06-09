@@ -1,6 +1,6 @@
-EMBED_FOOTER_TEXT = "github.com/h0nde/roblox-claimable-group-finder"
+EMBED_FOOTER_TEXT = "swxvy is daddy"
 
-DEFAULT_ID_SLACK = 100000
+DEFAULT_ID_SLACK = 10000
 DEFAULT_RANGES = (
     (1, 1250000),
     (2520000, 7960000),
